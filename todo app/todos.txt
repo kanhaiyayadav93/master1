@@ -1,0 +1,5 @@
+new todoo
+daily reports
+daily meeting
+morning walk
+python master
